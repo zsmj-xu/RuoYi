@@ -67,6 +67,13 @@
             <artifactId>ruoyi-generator</artifactId>
         </dependency>
 
+	    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.12</version> <!-- 根据需要选择适当的JUnit版本 -->
+        <scope>test</scope>
+    </dependency>
+
     </dependencies>
 
     <build>
